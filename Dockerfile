@@ -1,4 +1,4 @@
-FROM      ubuntu:14.04
+FROM      ubuntu:trusty-20190425
 MAINTAINER Matt Webb "mattrw89@gmail.com"
 
 ENV LANG en_US.UTF-8
